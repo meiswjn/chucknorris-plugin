@@ -118,7 +118,7 @@ public class FactGenerator {
         "When Chuck Norris presses Ctrl+Alt+Delete, worldwide computers restart is initiated.",
         "When Chuck Norris throws exceptions, it’s across the room.",
         "When Chuck Norris is web surfing websites get the message \"Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?\".",
-        "The Chuck Norris plugin doesn't need to be adopted, it maintains itself.",
+        "The Chuck Norris plugin doesn't need to be adopted, it maintains itself."
     };
 
     /**
